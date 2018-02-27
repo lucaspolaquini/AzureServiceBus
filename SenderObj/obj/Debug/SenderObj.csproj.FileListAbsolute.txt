@@ -1,0 +1,11 @@
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\SenderObj.exe.config
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\SenderObj.exe
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\SenderObj.pdb
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\Microsoft.ServiceBus.dll
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\Microsoft.ServiceBus.xml
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\obj\Debug\SenderObj.csprojResolveAssemblyReference.cache
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\obj\Debug\SenderObj.csproj.CoreCompileInputs.cache
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\obj\Debug\SenderObj.exe
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\obj\Debug\SenderObj.pdb
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\Newtonsoft.Json.dll
+C:\VisualStudio_Projects\source\repos\SenderObj\SenderObj\bin\Debug\Newtonsoft.Json.xml

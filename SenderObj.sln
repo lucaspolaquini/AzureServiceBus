@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenderObj", "SenderObj\SenderObj.csproj", "{C81C5F75-E661-4F25-AF1B-8E301831244A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiverObj", "ReceiverObj\ReceiverObj.csproj", "{88A5D6CE-4244-4358-8419-110067466A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C81C5F75-E661-4F25-AF1B-8E301831244A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81C5F75-E661-4F25-AF1B-8E301831244A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81C5F75-E661-4F25-AF1B-8E301831244A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81C5F75-E661-4F25-AF1B-8E301831244A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A5D6CE-4244-4358-8419-110067466A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A5D6CE-4244-4358-8419-110067466A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A5D6CE-4244-4358-8419-110067466A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A5D6CE-4244-4358-8419-110067466A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E57A005-9EC9-4394-834E-B1B05B863F89}
+	EndGlobalSection
+EndGlobal
